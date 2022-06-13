@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\bin\Debug\Flappy Bird WPF MOO ICT.exe.config
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\bin\Debug\Flappy Bird WPF MOO ICT.exe
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\bin\Debug\Flappy Bird WPF MOO ICT.pdb
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\FlappyBird.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\FlappyBird.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\App.g.cs
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\Flappy Bird WPF MOO ICT_MarkupCompile.cache
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\Flappy Bird WPF MOO ICT_MarkupCompile.lref
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\Flappy Bird WPF MOO ICT.g.resources
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\Flappy_Bird_WPF_MOO_ICT.Properties.Resources.resources
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\FlappyBird.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\FlappyBird.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\Flappy Bird WPF MOO ICT.exe
+C:\Users\User\Desktop\FlappyBird\FlappyBird Dawid Mielke\FlappyBird\obj\Debug\Flappy Bird WPF MOO ICT.pdb
