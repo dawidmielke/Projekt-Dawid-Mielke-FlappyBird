@@ -1,2 +1,2 @@
-# PO-projekt
+# Projekt-Dawid-Mielke-FlappyBird
 Projekt programowanie obiektowe 
